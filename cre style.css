@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: auto;
+    padding: 0 15px;
+    border-radius: 40px;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: .75rem;
+    margin-right: .75rem;
+}
+.btn {
+    width: 70%;
+}
+.small{
+    width: 100%;
+}
+.email{
+    width: 90%;
+    height: 10%;
+}
+i{
+    font-size: 30px;
+    padding-right: 20px;
+}
+#text-1{
+    border-radius: 20px;
+    padding-inline-start: 20px;
+    font-size: 16px;
+    font-style: normal;
+}
+#text-2{
+    border-radius: 20px;
+    padding-inline-start: 30px;
+}
